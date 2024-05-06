@@ -1,132 +1,128 @@
 
 Hi 👋, Welcome to github **RPL Project LMS Unsiclass**
 
-## 📙 Tugas 1
-- [ARJUNA DINI KENCANA](https://github.com/praktikum-alpro-1b-2022/1b-tugas-1-arjuna-dini-kencana)
-- [AUFA SARIFATUN NISA](https://github.com/praktikum-alpro-1b-2022/1b-tugas-1-aufa-sarifatun-nisa)
-- [AZHAR ADYATMA PRATAMA](https://github.com/praktikum-alpro-1b-2022/1b-tugas-1-azhar-adyatma-pratama)
-- [BAYU PUJIANTO](https://github.com/praktikum-alpro-1b-2022/1b-tugas-1-bayu-pujianto)
-- [BHANU AZIZI](https://github.com/praktikum-alpro-1b-2022/1b-tugas-1-bhanu-azizi)
-- [BINTANG DANUARTA](https://github.com/praktikum-alpro-1b-2022/1b-tugas-1-bintang-danuarta)
-- [CINDY AMELIA PRAMESWARI](https://github.com/praktikum-alpro-1b-2022/1b-tugas-1-cindy-amelia-prameswari)
-- [DAFFA AL GHIFARY](https://github.com/praktikum-alpro-1b-2022/1b-tugas-1-daffa-al-ghifary)
-- [MUHAMMAD RIZQI FADHILAH](https://github.com/praktikum-alpro-1b-2022/1b-tugas-1-muhammad-rizqi-fadhilah)
-- [MUHAMMAD SUTAN FATHIR](https://github.com/praktikum-alpro-1b-2022/1b-tugas-1-muhammad-sutan-fathir)
 
-
-## 📙 Ujian Akhir Semester
+## Deskripsi
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-zme7">Kelompok</th>
-    <th class="tg-pidv">Studi Kasus</th>
-    <th class="tg-pidv">Anggota</th>
-    <th class="tg-pidv">Kelompok</th>
-    <th class="tg-pidv">Studi Kasus</th>
-    <th class="tg-pidv">Anggota</th>
+    <th class="tg-zme7">Nomor</th>
+    <th class="tg-pidv">Fitur</th>
+    <th class="tg-pidv">Developer</th>
+    <th class="tg-pidv">Nomor</th>
+    <th class="tg-pidv">Fitur</th>
+    <th class="tg-pidv">Developer</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-c3ow" rowspan="4">1</td>
-    <td class="tg-0pky" rowspan="4">Bioskop</td>
-    <td class="tg-0pky">MAGROZAN QOBUS ZAIDAN</td>
+    <td class="tg-0pky" rowspan="4">Login</td>
+    <td class="tg-0pky">SITI HERAWATI</td>
     <td class="tg-c3ow" rowspan="4">2</td>
-    <td class="tg-0pky" rowspan="4">Siakad</td>
-    <td class="tg-0pky">AZHAR ADYATMA PRATAMA</td>
+    <td class="tg-0pky" rowspan="4">Daftar</td>
+    <td class="tg-0pky">ARJUNA DINI KENCANA</td>
   </tr>
   <tr>
     <td class="tg-0pky">CINDY AMELIA PRAMESWARI</td>
-    <td class="tg-0pky">BHANU AZIZI</td>
+    <td class="tg-0pky">AUFA SARIFATUN NISA</td>
   </tr>
   <tr>
-    <td class="tg-0pky">RACHEL MUTHIA PUTRI NASTY</td>
-    <td class="tg-0pky">NUR SALAMAH AZZAHRAH</td>
+    <td class="tg-0pky">MUHAMMAD SUTAN FATHIR</td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">NABILLA PASHA MARCELLINA</td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0lax" colspan="3">
-        <a href="https://github.com/praktikum-alpro-1b-2022/1b-uas-kelompok-1">Kelompok 1</a>
+        <a href="https://github.com/Project-RPL-LMS-Unsiclass/Fitur-Login">Login</a>
     </td>
     <td class="tg-0lax" colspan="3">
-    <a href="https://github.com/praktikum-alpro-1b-2022/1b-uas-kelompok-2">Kelompok 2</a>
+    <a href="https://github.com/Project-RPL-LMS-Unsiclass/Fitur-Daftar">Daftar</a>
     </td>
   </tr>
     <tr>
     <td class="tg-c3ow" rowspan="3">3</td>
-    <td class="tg-0pky" rowspan="3">Perpustakaan</td>
-    <td class="tg-0pky">MUHAMMAD SUTAN FATHIR</td>
+    <td class="tg-0pky" rowspan="3">Membuat Absen</td>
+    <td class="tg-0pky">BHANU AZIZI</td>
     <td class="tg-c3ow" rowspan="3">4</td>
-    <td class="tg-0pky" rowspan="3">Hotel</td>
-    <td class="tg-0pky">MUHAMMAD RIZQI FADHILAH</td>
+    <td class="tg-0pky" rowspan="3">Mengisi Absen</td>
+    <td class="tg-0pky">BHANU AZIZI</td>
   </tr>
   <tr>
-    <td class="tg-0pky">NADIA KAMILA ABIDIN</td>
-    <td class="tg-0pky">RIZKY FAHRUREZA</td>
+    <td class="tg-0pky">RACHEL MUTHIA PUTRI NASTY</td>
+    <td class="tg-0pky">RACHEL MUTHIA PUTRI NASTY</td>
   </tr>
   <tr>
-    <td class="tg-0pky">AUFA SARIFATUN NISA</td>
+    <td class="tg-0pky">PUTRI FISICHELLA CHASANNOVE</td>
     <td class="tg-0pky">PUTRI FISICHELLA CHASANNOVE</td>
   </tr>
   <tr>
     <td class="tg-0lax" colspan="3">
-        <a href="https://github.com/praktikum-alpro-1b-2022/1b-uas-kelompok-3">Kelompok 3</a>
+        <a href="https://github.com/Project-RPL-LMS-Unsiclass/Fitur-Membuat-Absen">Membuat Absen</a>
     </td>
     <td class="tg-0lax" colspan="3">
-    <a href="https://github.com/praktikum-alpro-1b-2022/1b-uas-kelompok-4">Kelompok 4</a>
+    <a href="https://github.com/Project-RPL-LMS-Unsiclass/Fitur-Mengisi-Absen">Mengisi Absen</a>
     </td>
   </tr>
   <tr>
     <td class="tg-c3ow" rowspan="3">5</td>
-    <td class="tg-0pky" rowspan="3">Book Store</td>
-    <td class="tg-0pky">BINTANG DANUARTA</td>
-    <td class="tg-c3ow" rowspan="3">6</td>
-    <td class="tg-0pky" rowspan="3">Bank</td>
-    <td class="tg-0pky">SHELMA AULIA MAHARANI</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">NAUFAL RAHMAN</td>
-    <td class="tg-0pky">DAFFA AL GHIFARY</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">SITI HERAWATI</td>
-    <td class="tg-0pky">BAYU PUJIANTO</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax" colspan="3">
-        <a href="https://github.com/praktikum-alpro-1b-2022/1b-uas-kelompok-5">Kelompok 5</a>
-    </td>
-    <td class="tg-0lax" colspan="3">
-    <a href="https://github.com/praktikum-alpro-1b-2022/1b-uas-kelompok-6">Kelompok 6</a>
-    </td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow" rowspan="3">7</td>
-    <td class="tg-0pky" rowspan="3">Restoran</td>
+    <td class="tg-0pky" rowspan="3">Membuat Kelas</td>
     <td class="tg-0pky">RIZKY AFRIZA ROSAL FINO</td>
-    <td class="tg-c3ow" rowspan="3">8</td>
-    <td class="tg-0pky" rowspan="3">Coffe Shop</td>
-    <td class="tg-0pky">SAPTA BELLA RASMADAN</td>
+    <td class="tg-c3ow" rowspan="3">6</td>
+    <td class="tg-0pky" rowspan="3">Bergabung Kelas</td>
+    <td class="tg-0pky">RIZKY AFRIZA ROSAL FINOI</td>
   </tr>
   <tr>
-    <td class="tg-0pky">ARJUNA DINI KENCANA</td>
-    <td class="tg-0pky">YHOGA DWI SAPUTRA NAZARUDIN</td>
+    <td class="tg-0pky">AZHAR ADYATMA PRATAMA</td>
+    <td class="tg-0pky">AZHAR ADYATMA PRATAMA</td>
   </tr>
   <tr>
-    <td class="tg-0pky">SEPTIAN NUR HIDAYAT</td>
+    <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0lax" colspan="3">
-        <a href="https://github.com/praktikum-alpro-1b-2022/1b-uas-kelompok-7">Kelompok 7</a>
+        <a href="https://github.com/Project-RPL-LMS-Unsiclass/Fitur-Bergabung-Kelas">Bergabung Kelas</a>
     </td>
     <td class="tg-0lax" colspan="3">
-    <a href="https://github.com/praktikum-alpro-1b-2022/1b-uas-kelompok-8">Kelompok 8</a>
+    <a href="https://github.com/Project-RPL-LMS-Unsiclass/Fitur-Membuat-Kelas">Membuat Kelas</a>
     </td>
   </tr>
-  
+  <tr>
+    <td class="tg-c3ow" rowspan="3">7</td>
+    <td class="tg-0pky" rowspan="3">Membuat Materi</td>
+    <td class="tg-0pky">NUR SALAMAH AZZAHRAH</td>
+    <td class="tg-c3ow" rowspan="3">8</td>
+    <td class="tg-0pky" rowspan="3">Mengakses Materi</td>
+    <td class="tg-0pky">NUR SALAMAH AZZAHRAH</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">SEPTIAN NUR HIDAYAT</td>
+    <td class="tg-0pky">SEPTIAN NUR HIDAYAT</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">SHELMA AULIA MAHARANI</td>
+    <td class="tg-0pky">SHELMA AULIA MAHARANI</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" colspan="3">
+        <a href="https://github.com/Project-RPL-LMS-Unsiclass/Fitur-Membuat-Materi">Membuat Materi</a>
+    </td>
+    <td class="tg-0lax" colspan="3">
+    <a href="https://github.com/Project-RPL-LMS-Unsiclass/Fitur-Mengakses-Materi">Mengakses Materi</a>
+    </td>
+  </tr>
+   <tr>
+    <td class="tg-c3ow" rowspan="3">9</td>
+    <td class="tg-0pky" rowspan="3">Daftar Mahasiswa</td>
+    <td class="tg-0pky">MAGROZAN QOBUS ZAIDAN</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" colspan="3">
+        <a href="https://github.com/Project-RPL-LMS-Unsiclass/Daftar-Mahasiswa">Daftar Mahasiswa</a>
+    </td>
 </tbody>
 </table>
